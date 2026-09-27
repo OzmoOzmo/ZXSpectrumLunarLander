@@ -1,9 +1,9 @@
 /*
- * Minesweeper for ZX Spectrum / Z88DK
+ * Lunar Lander for ZX Spectrum / Z88DK
  *
- * Uses some sprites from the DStar demo - otherwise all original code.
+ * All original code + assisted by copilot.
  * 
- * Ambrose Clarke - July 2026
+ * Ambrose Clarke - September 2026
  * 
  */
 
