@@ -2,9 +2,7 @@
 
 ## 1. Goal
 
-Create a playable Lunar Lander for the 48K ZX Spectrum, implemented primarily in C with Z88DK. The supplied `Requirmens.jpeg` is the visual reference for the screen composition: Moonlander title, telemetry panels, starfield, central lander, moon, lunar surface, landing pad, and flag.
-
-The existing Minesweeper code is only a source of sample drawing and input patterns. Minesweeper gameplay must be removed.
+Create a playable Lunar Lander for the 48K ZX Spectrum, implemented primarily in C with Z88DK. If supplied `Requirments.jpeg` is the visual reference for the screen composition: Moonlander title, telemetry panels, starfield, central lander, moon, lunar surface, landing pad, and flag.
 
 ## 2. Target and constraints
 
